@@ -2,7 +2,7 @@
 
 <h1 align="center"> # Repositorio para proyecto sprint 7 </h1>
 
-<em> # Introducción <em>
+<em> Introducción <em>
 
 Para la elavoracion de este proyecto, se creo un entorno virtual, en el cual se instalaron las librerias pandas, plotly_express y streamlit, para poder cargae el dataframe, poder realizar las graficas y realizar la aploicacion.
 
