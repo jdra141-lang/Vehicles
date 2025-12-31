@@ -1,6 +1,6 @@
 ### Vehicles
 
-<h1 align="center"> # Repositorio para proyecto sprint 7 </h1>
+<h1 align="center"> Repositorio para proyecto sprint 7 </h1>
 
 <em> Introducción <em>
 
